@@ -1,2 +1,2 @@
 # erams
-doc man
+this is how we start off
